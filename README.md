@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pour a little magic in this midnight glass
+> Let the world keep turning while we let it pass
+> I'm holding onto every breath you breathe my way
+> Southern comfort calling, begging you to stay
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
